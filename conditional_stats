@@ -1,0 +1,22 @@
+//if statement//
+int x = 4;
+if (x < 6) {
+  System.out.println("x is less than 4");
+}
+//If-Else statement//
+int num = 9;
+if(num % 2 == 0) {
+  System.out.println("Even);
+    } else {
+        System.out.println("Odd");
+//Nested If-Else//
+int age = 45;
+if (age >= 18) {
+  if (age < 21) {
+    System.out.println("You're eligible for alcohol.");}
+    else {
+      System.out.println("You're ineligible to drink and drive.");
+    else { 
+      System.out.println("You're ineligible for everything.");
+
+      
